@@ -1,0 +1,9 @@
+# TRANSFORMASI_INTENSITAS_CITRA_PADA_MATLAB
+
+Nama : Anugerah A'raaf Disman
+
+NIM : 200209500014
+
+Kelas : PTIK - B
+
+Angkatan : 2020
